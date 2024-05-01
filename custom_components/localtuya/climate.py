@@ -83,7 +83,7 @@ HVAC_MODE_SETS = {
         HVAC_MODE_HEAT: "1",
         HVAC_MODE_AUTO: "0",
     },
-    "TCL custom": {
+    "TCL/Custom": {
         HVAC_MODE_HEAT: "heat",
         HVAC_MODE_AUTO: "auto",
         HVAC_MODE_COOL: "cold",
