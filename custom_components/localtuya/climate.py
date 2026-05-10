@@ -103,6 +103,13 @@ HVAC_MODE_SETS = {
         HVACMode.HEAT: "1",
         HVACMode.AUTO: "0",
     },
+    "TCL/Custom": {
+        HVACMode.HEAT: "heat",
+        HVACMode.AUTO: "auto",
+        HVACMode.COOL: "cold",
+        HVACMode.DRY: "wet",
+        HVACMode.FAN_ONLY: "fan",
+    },
 }
 HVAC_ACTION_SETS = {
     "True/False": {
